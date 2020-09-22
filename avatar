@@ -1,0 +1,11 @@
+avatar = "Aang"
+avatar_age = 13
+best_freind = "Bumi"
+puts ("There once was a little boy who grew up to be the avatar and his name was " + avatar)
+puts ("The young avatar" + avatar + "was only " + avatar_age)
+puts ("His best friend was "+ best_freind + "and it just happened that " + avatar + "was much younger than him.")
+puts avatar = "Korrra"
+puts avatar_age = 16
+puts best_freind = "Tenzin"
+puts ("Many years later the avatar was reborn but this time the avatar's name was " + avatar + "and she was only " + avatar_age)
+puts ("her best freind was"+ best_freind + "end of my little story")
